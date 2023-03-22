@@ -1,0 +1,22 @@
+{
+  "name": "run-generator-func",
+  "version": "1.0.0",
+  "description": "Run generator functions",
+  "main": "src/run-generator-func.js",
+  "scripts": {
+    "test": "node test/run-generator-func.test.js"
+  },
+  "type": "module",
+  "keywords": [
+    "generator",
+    "promise",
+    "iterator",
+    "es6",
+    "javascript",
+    "async",
+    "await"
+  ],
+  "author": "qinjiu <qj_tech@foxmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
